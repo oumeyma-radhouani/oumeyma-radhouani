@@ -3,10 +3,8 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=oumeyma-radhouani&label=Profile%20Views&color=0e75b6&style=flat" alt="oumeyma-radhouani" /></p>
 ```java
 public class Oumeyma extends Engineer {
-
     private final String EDUCATION = "Esprit Engineering School";
     private final String DOUBLE_DEGREE = "Business Intelligence (Lyon 1 & ESB)";
-
     public String[] getCurrentFocus() {
         return new String[] {
             "Software Architecture",
@@ -14,7 +12,6 @@ public class Oumeyma extends Engineer {
             "Cloud Computing"
         };
     }
-
     public void solveProblem() {
         while (alive) {
             analyzeData();  // My BI Background
