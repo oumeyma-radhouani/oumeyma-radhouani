@@ -26,9 +26,14 @@
 
 ### ☕︎ Languages and Tools:
 
-<a href="https://skillicons.dev">
+<div align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,php,symfony,mysql,bootstrap,angular,nodejs,dotnet,vscode,git,github,figma" />
   </a>
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?style=flat&logo=Power-BI&logoColor=black" alt="Power BI" />
 </div>
 
 <br />
@@ -43,14 +48,14 @@
 
 <br />
 
-
 ---
 
 ### ★ Connect With Me:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/oumeyma-radhouani-990880221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:oumeymaradhouani1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></div>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumeyma-radhouani-990880221/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumeymaradhouani1@gmail.com)
+</div>
 
 <br />
 
