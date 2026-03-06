@@ -31,9 +31,6 @@
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,php,symfony,mysql,bootstrap,angular,nodejs,dotnet,vscode,git,github,figma" />
   </a>
   <br />
-  <br />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?style=flat&logo=Power-BI&logoColor=black" alt="Power BI" />
 </div>
 
 <br />
