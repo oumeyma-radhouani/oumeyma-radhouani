@@ -15,9 +15,9 @@
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Illustration of developer" />
 
-* 🔭 I'm an **Engineering Student @ Esprit | BI Graduate** 🎓.
-* 🌱 I'm currently working on my PIDEV project: **Nova Learning Management Platform**.
-* 💬 Ask me about anything, I am happy to help, only if the ball is in my court! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+* ✦ I'm an **Engineering Student @ Esprit | BI Graduate** 🎓.
+* ❀ I'm currently working on my PIDEV project: **Nova Learning Management Platform**.
+* ☘︎ Ask me about anything, I am happy to help, only if the ball is in my court! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 * All of my projects are available at [My Repositories](https://github.com/oumeyma-radhouani?tab=repositories).
 
 <br clear="both">
@@ -33,13 +33,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="Power BI" />
-</div>
-
-<br />
-
 ---
 
 ### ⚡︎ My Stats:
@@ -50,12 +43,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oumeyma-radhouani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumeyma-radhouani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br />
 
 ---
 
