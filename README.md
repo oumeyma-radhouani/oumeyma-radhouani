@@ -18,7 +18,7 @@
 * ✦ I'm an **Engineering Student @ Esprit | BI Graduate** 🎓.
 * ❀ I'm currently working on my PIDEV project: **Nova Learning Management Platform**.
 * ☘︎ Ask me about anything, I am happy to help, only if the ball is in my court! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
-* All of my projects are available at [My Repositories](https://github.com/oumeyma-radhouani?tab=repositories).
+* All of my projects are available at <a href="https://github.com/oumeyma-radhouani?tab=repositories">My Repositories</a>.
 
 <br clear="both">
 
@@ -48,13 +48,24 @@
 
 <br />
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oumeyma-radhouani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumeyma-radhouani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br />
+
 ---
 
 ### ★ Connect With Me:
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumeyma-radhouani-990880221/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumeymaradhouani1@gmail.com)
+  <a href="https://www.linkedin.com/in/oumeyma-radhouani-990880221/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:oumeymaradhouani1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br />
