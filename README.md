@@ -11,15 +11,13 @@
 
 ---
 
-### 🙋‍♀️ About Me:
+### About Me:
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Illustration of developer" />
 
 * 🔭 I'm an **Engineering Student @ Esprit | BI Graduate** 🎓.
 * 🌱 I'm currently working on my PIDEV project: **Nova Learning Management Platform**.
-* 👯 I'm looking forward to collaborating on Business Intelligence and Web Development projects.
 * 💬 Ask me about anything, I am happy to help, only if the ball is in my court! 😂
-* ⚡ Fun fact: *"Data is the new oil, and I love refining it!"*.
 * 📫 All of my projects are available at [My Repositories](https://github.com/oumeyma-radhouani?tab=repositories).
 
 <br clear="both">
@@ -30,7 +28,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,symfony,mysql,bootstrap,vscode,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,php,symfony,mysql,bootstrap,angular,nodejs,vscode,git,github,figma" />
   </a>
 </div>
 
@@ -60,7 +58,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/oumeyma-radhouani-990880221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://t.me/YOUR_TELEGRAM_HANDLE"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </div>
 
 <br />
