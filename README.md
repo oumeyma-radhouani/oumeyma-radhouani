@@ -15,7 +15,7 @@
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Illustration of developer" />
 
-* ✦ I'm an **Engineering Student @ Esprit | Double Degree BI Graduate**🎓.
+* ✦ I'm a **Computer Science Student @ Esprit | Double Degree BI Graduate**🎓.
 * ❀ I'm currently working on my PIDEV project: **Nova Learning Management Platform**.
 * ☘︎ Ask me about anything, I am happy to help, only if the ball is in my court! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 * All of my projects are available at <a href="https://github.com/oumeyma-radhouani?tab=repositories">My Repositories</a>.
