@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00A8CC&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/oumeyma-radhouani/oumeyma-radhouani/main/ffxv.png" width="100%" alt="FFXV" />
 </div>
+
+<br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=oumeyma-radhouani&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/oumeyma-radhouani?label=Followers&style=flat&color=white" alt="Followers" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00A8CC&height=150&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00A8CC&height=150&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn)" width="100%" />
 </div>
-
 <br />
 
 ---
